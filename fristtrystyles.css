@@ -1,0 +1,21 @@
+/* Пример стилей для формы и контейнера */
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+input[type="text"] {
+  padding: 8px;
+  margin: 5px 0;
+}
+
+button {
+  padding: 8px 16px;
+  margin-top: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
